@@ -1,0 +1,20 @@
+:root {
+  --color-bg: #fffaf3;
+  --color-surface: #ffffff;
+  --color-ink: #332c2a;
+  --color-muted: #6f625d;
+  --color-coral: #c8433e;
+  --color-coral-text: #b13632;
+  --color-yellow: #f6ca4f;
+  --color-mint: #2f7f6d;
+  --color-line: #eadfd5;
+  --color-control-border: #9b867a;
+  --color-focus-on-dark: #ffe7a3;
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 26px;
+  --shadow-soft: 0 16px 40px rgb(74 53 39 / 8%);
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: var(--color-ink);
+  background: var(--color-bg);
+}
